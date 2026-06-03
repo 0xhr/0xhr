@@ -28,9 +28,13 @@ Keywords: `ESP32`, `IMU`, `Human Activity Recognition`, `AIoT`, `Embedded System
 ## 💻 Skills
 
 **Programming:** Python, C/C++, Verilog, MATLAB
+
 **Deep Learning:** PyTorch, NumPy, Open3D
+
 **3D Vision:** Point Cloud Registration, RANSAC, ICP, 3DMatch, 3DLoMatch
+
 **Embedded Systems:** ESP32-S3, Raspberry Pi, IMU, GPIO, UART, I2C
+
 **Tools:** Linux, Git, LaTeX, Overleaf, VS Code, Quartus, ModelSim
 
 
