@@ -2,44 +2,17 @@
 
 I'm an undergraduate student in **Electronic Information Engineering** at **China University of Geosciences, Wuhan**.
 
-My current interests include **3D Computer Vision**, **Point Cloud Registration**, **Geometric Deep Learning**, and **Embodied Intelligence**.
+I work on **3D computer vision**, **point cloud learning**, and **geometric deep learning**. Recently, I've also been exploring **AI-assisted development**, **collaborative AI systems**, and **embodied intelligence**.
 
-## 🔭 Research
+## Recent work
 
-My recent research project is:
+- Research on robust point cloud registration for low-overlap scenes
+- Small projects connecting machine learning with embedded systems
 
-**SAFE-Reg: Structure-Aware Failure-Evasive Zero-Shot Point Cloud Registration for Low-Overlap Scenes**
+## Interests
 
-* Built on BUFFER-X for 3D point cloud registration
-* Focused on low-overlap structural ambiguity
-* Explored multi-scale descriptor routing and hypothesis re-ranking
-* Evaluated on 3DMatch / 3DLoMatch
-* Submitted to BMVC 2026
+Open-source software, developer tools, learning new things, and building small projects for fun.
 
+## Contact
 
-## 🛠️ Projects
-
-### MoveToPlay
-
-A wearable AIoT motion interaction system based on ESP32-S3 and IMU sensors.
-
-Keywords: `ESP32`, `IMU`, `Human Activity Recognition`, `AIoT`, `Embedded Systems`
-
-## 💻 Skills
-
-**Programming:** Python, C/C++, Verilog, MATLAB
-
-**Deep Learning:** PyTorch, NumPy, Open3D
-
-**3D Vision:** Point Cloud Registration, RANSAC, ICP, 3DMatch, 3DLoMatch
-
-**Embedded Systems:** ESP32-S3, Raspberry Pi, IMU, GPIO, UART, I2C
-
-**Tools:** Linux, Git, LaTeX, Overleaf, VS Code, Quartus, ModelSim
-
-
-## 📫 Contact
-
-Email: [huhr.cn[shift+2]gmail.com]
-
-Homepage: coming soon
+Email: `huhr.cn [at] gmail.com`
